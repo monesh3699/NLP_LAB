@@ -1,0 +1,2 @@
+The last decade has seen a substantial surge in the use of finite-state methods in many areas of natural-language processing. This is a remarkable comeback considering that in the dawn of modern linguistics, finite-state grammars were dismissed as fundamentally inadequate. Noam Chomsky's seminal 1957 work, Syntactic Structures [3], includes a short chapter devoted to ``finite state Markov processes'', devices that we now would call weighted finite-state automata. 
+In this section Chomsky demonstrates in a few paragraphs that English is not a finite state language. (p. 21)
